@@ -1,36 +1,124 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# mitDaniel.de
 
-## Getting Started
+Professionelle, conversion-optimierte Website für Daniel Hanke – Psychologischer Berater & Achtsamkeitscoach aus Berlin.
 
-First, run the development server:
+## Tech-Stack
+
+- **Framework:** Next.js 14 (App Router)
+- **Sprache:** TypeScript
+- **Styling:** Tailwind CSS
+- **Animationen:** Framer Motion
+- **Internationalisierung:** next-intl (Deutsch/Englisch)
+- **Icons:** Lucide React
+- **Fonts:** DM Sans (Body) + Cormorant Garamond (Headlines) via Google Fonts
+
+## Setup
 
 ```bash
+# Dependencies installieren
+npm install
+
+# Entwicklungsserver starten
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Produktion Build
+npm run build
+
+# Produktion Server starten
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Die Website ist unter `http://localhost:3000` erreichbar und leitet automatisch auf `/de` (Deutsch) weiter.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Projektstruktur
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+├── messages/
+│   ├── de.json              # Deutsche Übersetzungen
+│   └── en.json              # Englische Übersetzungen
+├── src/
+│   ├── app/
+│   │   ├── [locale]/
+│   │   │   ├── layout.tsx   # Locale-Layout mit Header/Footer/CookieBanner
+│   │   │   ├── page.tsx     # Startseite
+│   │   │   ├── ueber-mich/  # Über mich Seite
+│   │   │   ├── coaching/    # Coaching Seite (Preise, Szenarien, Prinzipien)
+│   │   │   ├── methoden/    # 12 Coaching-Methoden
+│   │   │   ├── seminare/    # Seminare & Business
+│   │   │   ├── impressum/   # Impressum (Platzhalter)
+│   │   │   └── datenschutz/ # Datenschutz (Platzhalter)
+│   │   ├── globals.css
+│   │   ├── layout.tsx       # Root Layout
+│   │   └── page.tsx         # Root Redirect → /de
+│   ├── components/
+│   │   ├── Header.tsx       # Sticky Header mit Blur, Mobile Menu
+│   │   ├── Footer.tsx       # Footer mit Newsletter, Social Links
+│   │   ├── CookieBanner.tsx # DSGVO Cookie-Banner
+│   │   ├── ScrollReveal.tsx # Scroll-Animationen
+│   │   ├── AnimatedCounter.tsx # Animierte Zahlen-Counter
+│   │   ├── QuoteBlock.tsx   # Zitat-Komponente
+│   │   └── ImagePlaceholder.tsx # Bild-Platzhalter
+│   ├── i18n/
+│   │   ├── routing.ts       # Locale-Routing Konfiguration
+│   │   └── request.ts       # next-intl Server-Konfiguration
+│   └── middleware.ts        # Locale-Middleware
+├── tailwind.config.ts       # Tailwind mit Custom Design System
+├── next.config.mjs          # Next.js + next-intl Plugin
+└── postcss.config.mjs
+```
 
-## Learn More
+## Seiten
 
-To learn more about Next.js, take a look at the following resources:
+| Seite | Route | Beschreibung |
+|-------|-------|-------------|
+| Startseite | `/de`, `/en` | Hero, Stats, Zitate, YouTube, Newsletter, Coaching-Teaser |
+| Über mich | `/de/ueber-mich` | Daniels persönliche Geschichte, Qualifikationen |
+| Coaching | `/de/coaching` | Ablauf, Preise, 3 Szenarien, 10 Prinzipien |
+| Methoden | `/de/methoden` | 12 Coaching-Methoden im Detail |
+| Seminare | `/de/seminare` | Workshops, Business-Anfragen |
+| Impressum | `/de/impressum` | Rechtliches (Platzhalter) |
+| Datenschutz | `/de/datenschutz` | Datenschutzerklärung (Platzhalter) |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Vor dem Go-Live zu erledigen
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Bilder
+Alle `ImagePlaceholder`-Komponenten durch echte Bilder ersetzen. Bildplatzhalter sind beschriftet mit dem benötigten Motiv.
 
-## Deploy on Vercel
+### Newsletter (Brevo)
+Das Newsletter-Formular auf der Startseite und im Footer muss mit Brevo (ehemals Sendinblue) verbunden werden. Suche nach `BREVO` im Code für Platzhalter.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Google Analytics
+Die GA4 Measurement-ID `G-XXXXXXXXXX` in `src/components/CookieBanner.tsx` durch die echte ID ersetzen.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Booking-Integration
+Die "Jetzt buchen" Buttons auf der Coaching-Seite verlinken derzeit auf `#book`. Hier Calendly, Stripe oder eine andere Buchungslösung integrieren.
+
+### Rechtliches
+- `/impressum` – Vollständiges Impressum ergänzen
+- `/datenschutz` – Vollständige DSGVO-konforme Datenschutzerklärung ergänzen
+
+### Social Media
+Instagram und TikTok Links im Footer sind Platzhalter (#). Durch echte URLs ersetzen.
+
+## Design System
+
+**Farben:**
+- Sage (Salbeigrün): `#8B9E7C` – Natur, Ruhe
+- Sand (Beige): `#F5F0E8` – Wärme, Geborgenheit
+- Forest (Waldgrün): `#2C3E2D` – Tiefe, Vertrauen
+- Gold: `#C4A265` – Akzent, Premium
+- Cream: `#FAF8F5` – Hintergrund
+
+**Typografie:**
+- Headlines: Cormorant Garamond (Serif)
+- Body: DM Sans (Sans-Serif)
+
+## Deployment
+
+Optimiert für Vercel:
+
+```bash
+npx vercel
+```
+
+Oder einfach das GitHub Repository mit Vercel verbinden – kein weiteres Setup nötig.

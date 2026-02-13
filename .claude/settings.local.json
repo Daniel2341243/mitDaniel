@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@14:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(node -e:*)",
+      "Bash(node:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs:*)",
+      "Bash(curl:*)",
+      "Bash(ls:*)",
+      "Bash(npx next build:*)",
+      "Bash(sips:*)",
+      "Bash(for f in /Users/daniel/Downloads/IMG_8624.HEIC /Users/daniel/Downloads/IMG_8625.HEIC /Users/daniel/Downloads/IMG_8626.HEIC)",
+      "Bash(do)",
+      "Bash(done)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:www.googleapis.com)",
+      "WebFetch(domain:www.mitdaniel.de)",
+      "WebFetch(domain:linktr.ee)",
+      "WebFetch(domain:www.danielhanke.com)",
+      "WebFetch(domain:socialblade.com)",
+      "WebFetch(domain:ytpeek.com)",
+      "WebFetch(domain:commentpicker.com)",
+      "WebFetch(domain:cloud2convert.com)",
+      "WebFetch(domain:yt.lemnoslife.com)",
+      "WebFetch(domain:vid.puffyan.us)",
+      "WebFetch(domain:invidious.snopyta.org)",
+      "WebFetch(domain:inv.tux.pizza)",
+      "Bash(git add:*)"
+    ]
+  }
+}

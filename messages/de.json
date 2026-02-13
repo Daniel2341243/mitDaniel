@@ -1,0 +1,385 @@
+{
+  "metadata": {
+    "title": "mitDaniel – Psychologische Beratung & Achtsamkeitscoaching",
+    "description": "Transformation durch Achtsamkeit. Psychologische Beratung & Achtsamkeitscoaching mit Daniel Hanke in Berlin. Online-Coaching via Zoom."
+  },
+  "nav": {
+    "home": "Start",
+    "about": "Über mich",
+    "coaching": "Coaching",
+    "methods": "Methoden",
+    "seminars": "Seminare & Business",
+    "subscribe": "Kostenlos abonnieren",
+    "bookCoaching": "Coaching buchen"
+  },
+  "hero": {
+    "headline": "Transformation durch Achtsamkeit",
+    "subheadline": "Psychologische Beratung & Achtsamkeitscoaching für Menschen, die bereit sind, ihr Leben von innen heraus zu verändern.",
+    "ctaPrimary": "Coaching buchen",
+    "ctaSecondary": "Tägliche Impulse erhalten"
+  },
+  "stats": {
+    "subscribers": "YouTube Abonnenten",
+    "views": "Video-Aufrufe",
+    "experience": "Jahre Coaching-Erfahrung",
+    "methods": "Coaching-Methoden"
+  },
+  "quote1": {
+    "text": "Nicht Perfektion bringt dich weiter, sondern der Mut, dich so anzunehmen, wie du bist – und Schritt für Schritt zu wachsen.",
+    "author": "Daniel Hanke"
+  },
+  "whyMindfulness": {
+    "headline": "Warum Achtsamkeit?",
+    "p1": "Vielleicht kennst du das: Du weißt eigentlich, was du verändern möchtest – aber irgendetwas hält dich zurück. Alte Muster, innere Kritiker, Ängste, die sich wie unsichtbare Mauern anfühlen.",
+    "p2": "Ich kenne das. Ich habe selbst jahrelang gegen meine eigenen Mauern gekämpft. Bis ich aufhörte zu kämpfen und anfing, hinzuschauen.",
+    "p3": "Achtsamkeit ist kein Trend. Es ist die radikale Entscheidung, dir selbst ehrlich zu begegnen – mit Mitgefühl statt Selbstkritik, mit Neugier statt Angst.",
+    "p4": "In meinem Coaching verbinde ich Achtsamkeit mit modernen Methoden der Psychologie und Beratung. Das Ergebnis: Veränderung, die nicht nur an der Oberfläche kratzt, sondern dich im Kern berührt."
+  },
+  "youtube": {
+    "headline": "Kostenlose Videos für dein Wachstum",
+    "text": "Schau dir meine kostenlosen Videos an – jede Woche neue Impulse für dein persönliches Wachstum.",
+    "cta": "Zum YouTube-Kanal"
+  },
+  "newsletter": {
+    "headline": "Tägliche Impulse für achtsame Selbsttransformation",
+    "subtext": "Jeden Tag eine kurze, kraftvolle Nachricht direkt in dein Postfach. Kostenlos. Kein Spam. Jederzeit abbestellbar.",
+    "placeholder": "Deine E-Mail-Adresse",
+    "cta": "Jetzt kostenlos abonnieren"
+  },
+  "coachingTeaser": {
+    "headline": "Bereit für deine Transformation?",
+    "badge": "Kennenlern-Aktion: 50% Rabatt – Nur für kurze Zeit!",
+    "single": {
+      "name": "Einzelsession",
+      "sessions": "1 Session",
+      "oldPrice": "79€",
+      "price": "39€",
+      "perSession": "39€ pro Session"
+    },
+    "six": {
+      "name": "6er-Paket",
+      "sessions": "6 Sessions",
+      "oldPrice": "474€",
+      "price": "219€",
+      "perSession": "~36€ pro Session"
+    },
+    "twelve": {
+      "name": "12er-Paket",
+      "sessions": "12 Sessions",
+      "oldPrice": "948€",
+      "price": "399€",
+      "perSession": "~33€ pro Session",
+      "popular": "Beliebteste Wahl"
+    },
+    "cta": "Mehr erfahren & buchen",
+    "vatNote": "Alle Preise inkl. MwSt. Coaching via Zoom. Bezahlung direkt bei Buchung."
+  },
+  "quote2": {
+    "text": "Deine Zusammenarbeit mit mir macht tiefgreifende Veränderung unvermeidlich. Die Frage ist nicht, ob sich Coaching lohnt – sondern ob du bereit bist, dein Wachstum zur Priorität zu machen.",
+    "author": "Daniel Hanke"
+  },
+  "about": {
+    "heroHeadline": "Meine Geschichte",
+    "intro": "Guten Tag, ich bin Daniel Hanke, geboren 1992 in Karlsruhe, heute lebe ich in Berlin. Zu meinen Hobbys gehören Reisen, lesen, Sport und Content Creation.",
+    "p2": "Ich kann mich sehr glücklich schätzen, dass ich heute das Leben führe, das ich führe. Doch mein Leben war nicht immer ganz so leicht…",
+    "p3": "Ich wuchs als Einzelkind in einem dysfunktionalen Elternhaus auf. Während mein Vater mich regelmäßig mit Wutanfällen plagte, lebte meine Mutter in ständiger Angst, die sie an mich weitergab. Diese angespannte Atmosphäre zu Hause hat mich als Kind zutiefst verunsichert. Schon früh entwickelte ich starke soziale Ängste, sodass mich jede Begegnung mit anderen Menschen nervös machte. In der Schule war ich der stille Junge, der sich am liebsten unsichtbar gemacht hätte. Zuhause wie draußen fühlte ich mich nie wirklich sicher oder geborgen.",
+    "p4": "Damals hatte ich noch nicht realisiert, dass Veränderung möglich war. Doch als es endlich 'Klick' machte und ich erkannte, dass ich selbst der Schmied meines Schicksals bin, änderte dies einfach alles für mich. Ich las ein Buch über persönliche Veränderung nach dem anderen und war hochmotiviert, jede Chance zu ergreifen, die sich mir bot.",
+    "p5": "Mit 17 Jahren (2009) war ich der jüngste Teilnehmer einer NLP-Practitioner-Ausbildung. NLP (Neuro-Linguistisches Programmieren) ist eine hocheffektive Coaching-Methodik, die ich seitdem bei mir, bei Freunden und später auch beruflich anwende. Der 'Werkzeugkoffer' des NLP hat mir bereits in Hunderten von Fällen ausgezeichnete Dienste geleistet.",
+    "p6": "In Heidelberg studierte ich Wirtschaftspsychologie (B.A.) und Internationales Management (M.A.). Danach arbeitete ich bei einer internationalen Unternehmensberatung und später gründete ich eine E-Learning-Plattform, zwei Agenturen und meine eigene kleine Unternehmensberatung, die Next Level Education GmbH. Während ich mich anfangs noch auf die Ausbildung von Projektmanagern konzentrierte, fokussierte ich mich in den späteren Jahren auf das Coaching von Führungskräften. Meine YouTube-Videos zu beruflichen Themen haben mittlerweile mehr als 1.000.000 Aufrufe erzielt.",
+    "p7": "Ich veröffentlichte 3 Sachbücher:\n- Selbstdisziplin 2.0 (2021)\n- Die 10 wichtigsten Methoden im Projektmanagement (2022)\n- Die 52 Prinzipien optimaler Führung (2025)",
+    "p8": "Neben 'NLP' und 'Psychologie' war 'Achtsamkeit' der dritte große Game-Changer für meine enorme persönliche Transformation. Anfangs suchte ich Wege, um meine eigene Unruhe und Angst in den Griff zu bekommen. Die ersten Meditationsversuche waren nicht leicht; still zu sitzen bedeutete ja, all den aufgestauten Gefühlen Raum zu geben. Aber Schritt für Schritt lernte ich, mich meinen Ängsten liebevoll zuzuwenden, anstatt vor ihnen wegzulaufen. Diese Erfahrungen waren transformativ: Ich spürte zum ersten Mal so etwas wie inneren Frieden und Selbstakzeptanz.",
+    "p9": "Heute, blicke ich auf einen langen Weg der Heilung und des Wachstums zurück. Die soziale Phobie von einst hat sich mittlerweile längst aufgelöst. Aus dem schüchternen Jungen ist ein einfühlsamer, offener und selbstbewusster Mann geworden, der so gut es geht einen bleiben positiven Impuls in dieser Welt schaffen möchte.",
+    "p12": "Heute weiß ich: Jeder Mensch hat die Fähigkeit, seine schwierigen Erlebnisse in Stärke zu verwandeln. Nichts von dem, was dir passiert ist, muss dich für immer bestimmen. Ich bin lebender Beweis dafür, dass aus Angst Vertrauen werden kann und aus Selbstzweifeln Selbstmitgefühl. Es ist für mich das Schönste zu sehen, wenn ein Klient langsam aufblüht, wenn aus Anspannung ein Lächeln wird, wenn immer größer werdende Fortschritte das Leben heller machen. Das treibt mich an, jeden Tag.",
+    "qualifications": {
+      "headline": "Qualifikationen & Erfahrung",
+      "items": [
+        "B.A. Wirtschaftspsychologie – SRH Heidelberg",
+        "M.A. Internationales Management – SRH Heidelberg",
+        "Zertifizierter Psychologischer Berater (SGD, 2025)",
+        "Zertifizierter Achtsamkeitscoach (SGD, 2025)",
+        "NLP Master Practitioner (Society of NLP, 2025)",
+        "NLP Practitioner (seit 2009)",
+        "6+ Jahre Coaching-Erfahrung",
+        "Autor: 'Selbstdisziplin 2.0' und weitere Bücher",
+        "10.000+ YouTube-Abonnenten, 1.000.000+ Aufrufe"
+      ]
+    },
+    "quote": {
+      "text": "Es geht darum zu erkennen, wer du wirklich bist – und dies mit ganzem Herzen zu lieben. Es geht darum zu erkennen, was du wirklich willst – und dies voller Elan zu verfolgen.",
+      "author": "Daniel Hanke"
+    },
+    "imagePlaceholders": {
+      "portrait": "Portrait von Daniel",
+      "childhood": "Kindheitsfoto oder symbolisches Bild",
+      "nlp": "Daniel jung / NLP-Ausbildung",
+      "coaching": "Daniel beim Coaching / professionelles Setting",
+      "meditation": "Daniel meditierend / in der Natur"
+    }
+  },
+  "coaching": {
+    "heroHeadline": "Dein Coaching mit Daniel",
+    "heroSubline": "1:1 Online-Coaching via Zoom – persönlich, tiefgehend, transformativ",
+    "processHeadline": "Wie läuft das Coaching ab?",
+    "steps": [
+      {
+        "title": "Kontakt aufnehmen",
+        "description": "Du buchst deine erste Session oder schreibst mir eine Nachricht bei Fragen."
+      },
+      {
+        "title": "Erstgespräch",
+        "description": "Wir lernen uns kennen. Du erzählst mir, wo du stehst und wohin du möchtest. Ich höre dir aufmerksam zu und wir entwickeln gemeinsam einen Plan."
+      },
+      {
+        "title": "Wöchentliche Sessions",
+        "description": "Jede Session dauert genau 60 Minuten via Zoom. Wir arbeiten mit den Methoden, die für dich am besten passen."
+      },
+      {
+        "title": "Zwischen den Sessions",
+        "description": "Du erhältst kleine Übungen und Impulse für deinen Alltag. Veränderung passiert nicht nur in der Session, sondern in deinem täglichen Leben."
+      },
+      {
+        "title": "Deine Transformation",
+        "description": "Schritt für Schritt wächst du über dich hinaus. Du entwickelst neue Perspektiven, lässt alte Muster los und baust das Leben auf, das du wirklich willst."
+      }
+    ],
+    "payment": "Direkte Bezahlung pro Session oder Paket. Unkompliziert und transparent.",
+    "bookNow": "Jetzt buchen",
+    "scenariosHeadline": "Drei Wege der Transformation – So könnte dein Coaching aussehen",
+    "scenariosDisclaimer": "Die folgenden Beispiele sind fiktiv, aber repräsentativ für typische Coaching-Verläufe.",
+    "scenarios": [
+      {
+        "name": "Lisa (34)",
+        "title": "Von der Erschöpfung zur inneren Ruhe",
+        "intro": "Lisa kam zu mir, weil sie sich ausgebrannt fühlte. Als Teamleiterin in einem Unternehmen jonglierte sie ständig zwischen den Erwartungen anderer und ihren eigenen Ansprüchen. Sie schlief schlecht, grübelte viel und hatte das Gefühl, sich selbst zu verlieren.",
+        "weeks": [
+          "Woche 1-2: Bestandsaufnahme & Vertrauensaufbau. Achtsamkeitsübungen zur Stressreduktion eingeführt.",
+          "Woche 3-4: CBT – Nicht hilfreiche Glaubenssätze identifiziert (\"Ich muss es allen recht machen\"). Neue Perspektiven entwickelt.",
+          "Woche 5-6: ACT – Akzeptanz schwieriger Gefühle. Werte-Arbeit: Was ist Lisa wirklich wichtig?",
+          "Woche 7-8: Somatic Coaching – Körperliche Anspannung lösen. Atemtechniken für den Alltag.",
+          "Woche 9-10: Systemisches Coaching – Grenzen setzen im beruflichen und privaten Umfeld.",
+          "Woche 11-12: Integration & Zukunftsplanung. Eigene Achtsamkeitspraxis gefestigt. Rückfallprävention."
+        ],
+        "result": "Lisa schläft wieder durch, hat gelernt Grenzen zu setzen und beginnt jeden Morgen mit einer kurzen Meditation. Sie sagt: \"Ich habe mich selbst wiedergefunden.\""
+      },
+      {
+        "name": "Marco (28)",
+        "title": "Vom Selbstzweifel zum Selbstvertrauen",
+        "intro": "Marco kam zu mir, weil er unter starken Selbstzweifeln litt, die ihn sowohl beruflich als auch in Beziehungen zurückhielten. Er vermied Konflikte, sagte selten seine Meinung und fühlte sich oft \"nicht gut genug\".",
+        "weeks": [
+          "Woche 1-2: Vertrauensvoller Rahmen. Motivational Interviewing – Marcos eigene Motivation für Veränderung stärken.",
+          "Woche 3-4: Inner Parts Work – Den inneren Kritiker kennenlernen und verstehen, woher er kommt.",
+          "Woche 5-6: NLP – Limitierende Glaubenssätze auflösen. Neue, stärkende Überzeugungen verankern.",
+          "Woche 7-8: Narrative Coaching – Marcos Lebensgeschichte neu erzählen: Vom Opfer zum Gestalter.",
+          "Woche 9-10: Behavioral Change – Neue Verhaltensweisen im Alltag üben (Meinung sagen, Nein sagen).",
+          "Woche 11-12: High Performance – Marcos berufliche Ziele definieren und einen konkreten Aktionsplan erstellen."
+        ],
+        "result": "Marco hat begonnen, in Meetings seine Meinung zu äußern. Er hat sein erstes Date seit zwei Jahren gehabt. Er sagt: \"Ich hätte nie gedacht, dass ich mich so verändern kann.\""
+      },
+      {
+        "name": "Sarah (45)",
+        "title": "Neuanfang nach einer Lebenskrise",
+        "intro": "Sarah kam zu mir nach einer schmerzhaften Trennung. Sie fühlte sich orientierungslos, traurig und wusste nicht, wie es weitergehen sollte. Gleichzeitig spürte sie, dass diese Krise auch eine Chance sein könnte.",
+        "weeks": [
+          "Woche 1-2: Raum für Trauer und Gefühle. Achtsamkeitsbasierte Selbstmitgefühl-Übungen.",
+          "Woche 3-4: ACT – Akzeptanz dessen, was ist. Loslassen, was nicht mehr dient.",
+          "Woche 5-6: Solution-Focused Coaching – Den Blick nach vorne richten. Sarahs Wunschzukunft visualisieren.",
+          "Woche 7-8: Inner Parts Work – Das verletzte innere Kind heilen. Alte Beziehungsmuster verstehen.",
+          "Woche 9-10: Narrative Coaching – Die Trennung als Wendepunkt statt als Ende sehen. Neue Lebensgeschichte schreiben.",
+          "Woche 11-12: Behavioral Change – Neue Routinen aufbauen. Soziale Kontakte stärken. Selbstfürsorge-Plan."
+        ],
+        "result": "Sarah hat eine neue Wohnung bezogen, meditiert täglich und hat sich bei einem Tanzatelier angemeldet. Sie sagt: \"Die Trennung war das Schmerzhafteste – und zugleich der Anfang meines neuen Lebens.\""
+      }
+    ],
+    "principlesHeadline": "Meine 10 Coaching-Prinzipien",
+    "principles": [
+      {
+        "title": "Präsenz vor Technik",
+        "description": "Bevor ich eine Methode anwende, bin ich voll und ganz für dich da. Echte Veränderung beginnt mit echter Verbindung."
+      },
+      {
+        "title": "Du bist der Experte deines Lebens",
+        "description": "Ich bringe das Handwerk mit, aber du bringst die Weisheit über dein eigenes Leben. Gemeinsam sind wir unschlagbar."
+      },
+      {
+        "title": "Mitgefühl statt Selbstkritik",
+        "description": "Wir ersetzen den inneren Kritiker nicht durch einen lauteren Motivationsredner, sondern durch einen mitfühlenden Freund."
+      },
+      {
+        "title": "Ganzheitlichkeit",
+        "description": "Körper, Geist und Seele sind nicht getrennt. Echte Transformation berücksichtigt alle Ebenen deines Seins."
+      },
+      {
+        "title": "Fortschritt statt Perfektion",
+        "description": "Jeder kleine Schritt zählt. Wir feiern Fortschritte und lernen aus Rückschlägen, ohne uns dafür zu verurteilen."
+      },
+      {
+        "title": "Wissenschaft trifft Weisheit",
+        "description": "Ich verbinde evidenzbasierte Methoden der Psychologie mit der zeitlosen Weisheit der Achtsamkeitstradition."
+      },
+      {
+        "title": "Individueller Ansatz",
+        "description": "Kein Mensch ist wie der andere. Deshalb passe ich jede Session individuell an dich und deine Bedürfnisse an."
+      },
+      {
+        "title": "Ehrlichkeit mit Herz",
+        "description": "Ich sage dir, was ich sehe – immer respektvoll, aber immer ehrlich. Wahres Wachstum braucht Wahrheit."
+      },
+      {
+        "title": "Nachhaltigkeit",
+        "description": "Mein Ziel ist es, mich überflüssig zu machen. Du sollst die Werkzeuge verinnerlichen, nicht von mir abhängig werden."
+      },
+      {
+        "title": "Freude am Weg",
+        "description": "Transformation darf sich gut anfühlen. Wir arbeiten mit Leichtigkeit, Humor und der Freude daran, lebendig zu sein."
+      }
+    ]
+  },
+  "methods": {
+    "headline": "Mein Werkzeugkoffer",
+    "subline": "Ich kombiniere die wirksamsten Methoden moderner Psychologie und Beratung – individuell auf dich abgestimmt.",
+    "items": [
+      {
+        "title": "Achtsamkeit & Meditation",
+        "description": "Die Basis meiner Arbeit. Achtsamkeit bedeutet, den gegenwärtigen Moment bewusst und ohne Bewertung wahrzunehmen.",
+        "usage": "Im Coaching lernst du, deine Gedanken und Gefühle zu beobachten, anstatt von ihnen gesteuert zu werden.",
+        "bestFor": "Besonders wirksam bei Stress, Ängsten, Grübeln und dem Wunsch nach mehr innerem Frieden."
+      },
+      {
+        "title": "Kognitive Verhaltenstherapie (CBT)",
+        "description": "Der Kerngedanke: Deine Gedanken beeinflussen deine Emotionen, und deine Emotionen beeinflussen dein Verhalten.",
+        "usage": "Indem wir nicht hilfreiche Denkmuster identifizieren und verändern, verändert sich dein gesamtes Erleben.",
+        "bestFor": "Besonders wirksam bei negativen Denkspiralen, Selbstzweifeln und Ängsten."
+      },
+      {
+        "title": "Acceptance & Commitment Therapy (ACT)",
+        "description": "ACT hilft dir, schwierige Gedanken und Gefühle zu akzeptieren, anstatt gegen sie anzukämpfen – und gleichzeitig entschlossen nach deinen Werten zu handeln.",
+        "usage": "Im Coaching arbeiten wir daran, psychologische Flexibilität aufzubauen.",
+        "bestFor": "Besonders wirksam wenn du dich festgefahren fühlst oder wichtige Veränderungen aufschiebst."
+      },
+      {
+        "title": "Motivational Interviewing (MI)",
+        "description": "Eine einfühlsame Gesprächsmethode, die deine innere Motivation für Veränderung weckt und stärkt.",
+        "usage": "Statt dir zu sagen, was du tun sollst, helfe ich dir, deine eigenen Gründe für Veränderung zu entdecken.",
+        "bestFor": "Besonders wirksam bei Ambivalenz, Prokrastination und dem Wunsch, schlechte Gewohnheiten zu verändern."
+      },
+      {
+        "title": "Systemisches Coaching",
+        "description": "Dein Leben existiert nicht im Vakuum. Systemisches Coaching betrachtet dich im Kontext deiner Beziehungen, deiner Familie, deines Arbeitsumfeldes.",
+        "usage": "Wir erkennen Muster und Dynamiken, die dich beeinflussen.",
+        "bestFor": "Besonders wirksam bei Beziehungskonflikten, familiären Themen und beruflichen Herausforderungen."
+      },
+      {
+        "title": "Solution-Focused Coaching (SFBT)",
+        "description": "Anstatt endlos Probleme zu analysieren, richten wir den Blick auf Lösungen.",
+        "usage": "Was funktioniert bereits? Was wäre anders, wenn das Problem gelöst wäre? Diese zukunftsorientierte Methode schafft schnelle Fortschritte.",
+        "bestFor": "Besonders wirksam wenn du konkrete Ziele erreichen möchtest und schnelle Ergebnisse suchst."
+      },
+      {
+        "title": "Neurolinguistisches Programmieren (NLP)",
+        "description": "NLP bietet kraftvolle Techniken, um dein Denken, Fühlen und Verhalten gezielt zu verändern.",
+        "usage": "Von Ankertechniken über Reframing bis hin zu Timeline-Arbeit – mein 'erster Werkzeugkoffer', den ich seit 2009 einsetze.",
+        "bestFor": "Besonders wirksam bei Phobien, limitierenden Glaubenssätzen und dem Wunsch nach schneller Veränderung."
+      },
+      {
+        "title": "Inner Parts Work (IFS / Ego-States)",
+        "description": "In jedem von uns gibt es verschiedene innere Anteile: den inneren Kritiker, das verletzte Kind, den Beschützer.",
+        "usage": "Parts Work hilft dir, diese Anteile zu verstehen, mit ihnen in Dialog zu treten und innere Harmonie herzustellen.",
+        "bestFor": "Besonders wirksam bei inneren Konflikten, Selbstsabotage und emotionalen Wunden aus der Vergangenheit."
+      },
+      {
+        "title": "Somatic Coaching (Körperorientierung)",
+        "description": "Dein Körper speichert Erfahrungen und Emotionen.",
+        "usage": "Somatic Coaching integriert Körperwahrnehmung, Atemarbeit und Bewegung in den Coaching-Prozess.",
+        "bestFor": "Besonders wirksam bei chronischem Stress, Trauma, Anspannung und dem Wunsch, wieder in Kontakt mit dir selbst zu kommen."
+      },
+      {
+        "title": "Narrative Coaching (Story Work)",
+        "description": "Wir alle erzählen uns Geschichten über unser Leben. Manche davon stärken uns, andere halten uns klein.",
+        "usage": "Narrative Coaching hilft dir, deine Lebensgeschichte bewusst neu zu erzählen und zu gestalten.",
+        "bestFor": "Besonders wirksam bei Identitätsfragen, Lebenskrisen und dem Wunsch, ein neues Kapitel aufzuschlagen."
+      },
+      {
+        "title": "Behavioral Change / Habit Coaching",
+        "description": "Nachhaltige Veränderung braucht neue Gewohnheiten.",
+        "usage": "Ich helfe dir, mit evidenzbasierten Methoden neue Routinen aufzubauen und alte Muster zu durchbrechen.",
+        "bestFor": "Besonders wirksam bei Prokrastination, Gesundheitszielen und dem Aufbau von Selbstdisziplin."
+      },
+      {
+        "title": "High Performance Coaching",
+        "description": "Für alle, die bereits gut sind und exzellent werden wollen.",
+        "usage": "Wir arbeiten an Fokus, Klarheit, Entscheidungsfähigkeit und der Fähigkeit, unter Druck dein Bestes zu geben.",
+        "bestFor": "Besonders wirksam für ambitionierte Menschen, Unternehmer und alle, die ihr volles Potenzial entfalten wollen."
+      }
+    ],
+    "quote": {
+      "text": "Ich glaube nicht an eine einzige Methode für alle. Ich glaube an die richtige Methode für dich – genau jetzt, genau hier.",
+      "author": "Daniel Hanke"
+    }
+  },
+  "seminars": {
+    "headline": "Seminare, Workshops & Business-Anfragen",
+    "intro": "Neben meinem 1:1-Coaching biete ich auch Seminare, Workshops und Vorträge zu den Themen Achtsamkeit, Stressbewältigung, bewusste Kommunikation und persönliches Wachstum an.",
+    "custom": "Ob für dein Unternehmen, dein Team oder deine Veranstaltung – ich gestalte maßgeschneiderte Programme, die nachhaltig wirken.",
+    "formatsHeadline": "Mögliche Formate",
+    "formats": [
+      "Halbtages- und Ganztages-Workshops",
+      "Mehrtägige Intensiv-Seminare",
+      "Vorträge und Keynotes",
+      "Team-Coaching & Team-Building",
+      "Achtsamkeitsprogramme für Unternehmen"
+    ],
+    "contactText": "Für Anfragen und individuelle Angebote schreib mir gerne eine E-Mail an:",
+    "email": "daniel@mitdaniel.de",
+    "closing": "Ich freue mich auf deine Nachricht!"
+  },
+  "footer": {
+    "copyright": "© 2025 Daniel Hanke – mitDaniel.de",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "newsletterHeadline": "Newsletter",
+    "newsletterCta": "Abonnieren"
+  },
+  "cookies": {
+    "title": "Cookie-Einstellungen",
+    "description": "Wir verwenden Cookies, um dir die bestmögliche Erfahrung auf unserer Website zu bieten.",
+    "acceptAll": "Alle akzeptieren",
+    "rejectAll": "Nur notwendige",
+    "settings": "Einstellungen",
+    "save": "Auswahl speichern",
+    "necessary": "Notwendige Cookies",
+    "necessaryDesc": "Diese Cookies sind für die Grundfunktionen der Website erforderlich und können nicht deaktiviert werden.",
+    "analytics": "Analyse-Cookies",
+    "analyticsDesc": "Diese Cookies helfen uns zu verstehen, wie Besucher unsere Website nutzen (Google Analytics).",
+    "marketing": "Marketing-Cookies",
+    "marketingDesc": "Diese Cookies werden verwendet, um Werbung relevanter für dich zu gestalten."
+  },
+  "quotes": {
+    "mindfulness": "Achtsamkeit ist keine Flucht vor dem Leben – sie ist die Rückkehr zu ihm.",
+    "breath": "Du musst nicht alles auf einmal verändern. Ein bewusster Atemzug reicht, um den ersten Schritt zu machen.",
+    "fear": "Hinter jeder Angst wartet eine Stärke darauf, entdeckt zu werden.",
+    "investment": "Coaching ist kein Luxus – es ist die Entscheidung, in das Wertvollste zu investieren, das du hast: dich selbst.",
+    "silence": "Stille ist nicht leer. Sie ist voller Antworten.",
+    "author": "Daniel Hanke"
+  },
+  "testimonials": {
+    "headline": "Was Klienten sagen",
+    "t1": {
+      "text": "Ich dachte, ich muss immer funktionieren. Daniel hat mir gezeigt, dass echte Stärke darin liegt, sich selbst ehrlich zu begegnen. Nach 6 Sessions fühle ich mich freier als seit Jahren.",
+      "name": "Sarah M.",
+      "age": "34",
+      "role": "Projektmanagerin"
+    },
+    "t2": {
+      "text": "Kein esoterischer Schnickschnack, sondern handfeste Werkzeuge, die im Alltag funktionieren. Daniels Coaching hat mir geholfen, aus dem Dauer-Grübeln rauszukommen und endlich ins Handeln zu kommen.",
+      "name": "Markus T.",
+      "age": "41",
+      "role": "Unternehmer"
+    },
+    "t3": {
+      "text": "Ich war skeptisch, ob Coaching online wirklich funktioniert. Nach der ersten Session mit Daniel wusste ich: Das hier ist anders. Er hört wirklich zu. Ich fühle mich gesehen und verstanden.",
+      "name": "Lena K.",
+      "age": "28",
+      "role": "Designerin"
+    }
+  }
+}
